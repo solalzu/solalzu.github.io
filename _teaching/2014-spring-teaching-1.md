@@ -1,7 +1,6 @@
 ---
 title: "Economía I"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2022-autumn-teaching
 venue: "Universidad de San Andrés"
 date: 2022-06-01
