@@ -12,7 +12,7 @@ Licenciada en Economía (tesis pendiente) y estudiante de la Maestría en Econom
 
 Intereses académicos
 ======
-Me interesan los temas vinculados a pobreza, desigualdad, desarollo humano y políticas sociales. La econometría en general y más precisamente l
+Me interesan los temas vinculados a pobreza, desigualdad, desarollo humano y políticas sociales. La econometría en general y más precisamente la microeconometría aplicada. 
 
 Getting started
 ======
