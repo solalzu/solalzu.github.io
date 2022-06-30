@@ -24,10 +24,15 @@ Experiencia
   * Universidad de San Andrés
   * Profesores: M. Gabriela Ertola Navajas y Federico A. Sturzenegger
 
-* Alumna asistente de docencia (2021)
+* Alumna asistente de investigación (2021)
   * Universidad de San Andrés
   * Profesora: María Edo
   * Investigación en temas de género y familia
+
+* Alumna asistente de investigación (2020)
+  * Universidad de San Andrés
+  * Profesor: Diego Reynoso
+  * [Encuesta de Satisfacción Política y Opinión Pública (ESPOP)] (https://udesa.edu.ar/espop)
   
 Habilidades IT
 ======
