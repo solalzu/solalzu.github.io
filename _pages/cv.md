@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * Maestría en Economía, Universidad de San Andrés, 2022 (en curso)
 * Licenciatura en Economía, Universidad de San Andrés, 2021 (tesis pendiente)
