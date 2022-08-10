@@ -16,7 +16,7 @@ Educación
 
 Experiencia
 ======
-* Profesora asistente. Economía I (actualmente)
+* Asistente de docencia. Economía I (marzo 2022 - actualidad)
   * Universidad de San Andrés
   * Profesores: M. Gabriela Ertola Navajas y Federico A. Sturzenegger
 
