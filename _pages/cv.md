@@ -36,10 +36,12 @@ Experiencia
   
 Habilidades IT
 ======
-* Stata
-* R
-* SPSS
-* Latex
+* Stata (avanzado)
+* R (básico)
+* SPSS (intermedio)
+* Latex (intermedio)
+* Python (básico)
+* QGIS (intermedio)
 
 Idiomas
 ======
