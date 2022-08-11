@@ -1,7 +1,7 @@
 ---
 title: "Economía I"
-collection: teaching
-permalink: /teaching/2022-autumn-teaching
+collection: Docencia
+permalink: /Docencia/2022-otoño-docencia
 type: Asistente de docencia
 venue: "Universidad de San Andrés"
 date: 2022-06-01
